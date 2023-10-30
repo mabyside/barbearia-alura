@@ -30,3 +30,12 @@ width: 100%;
 .beneficios { 
     background: #260c47;
 }
+
+ul {
+    display: inline-block;
+    width:20%
+}
+
+.beneficios-imagen{
+   width:50%;
+}
